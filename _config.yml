@@ -8,3 +8,6 @@ author:
 navigation:                
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
+  
+plugins:
+ - jekyll-feed
