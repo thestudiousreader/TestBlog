@@ -4,3 +4,7 @@ author:
   social_links: 
   twitter: studious_reader
   instagram: studiousraeder
+
+navigation:                
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About"}
