@@ -11,5 +11,4 @@ navigation:
   
   theme: minima
   
-plugins:
- - jekyll-feed
+
