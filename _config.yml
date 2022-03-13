@@ -9,6 +9,5 @@ navigation:
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
   
-  theme: minima
-  
+
 
