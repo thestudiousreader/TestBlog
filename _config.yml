@@ -5,6 +5,8 @@ title: Test Blog
   twitter: studious_reader
   instagram: studiousraeder
   markdown: krandown
+  
+  remote_theme: jekyll/minima
 
 # navigation:                
  # - {file: "index.md", title: "Home"}
