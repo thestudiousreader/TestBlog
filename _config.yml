@@ -9,9 +9,6 @@ date_format: "%B %d, %Y"
   # email: your-email@domain.com
 # description: "Great site about Jekyll on GH-Pages."
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "blog.md", title: "Blog"}
 
 # Build settings
 remote_theme: jekyll/minima
