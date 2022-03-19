@@ -1,7 +1,11 @@
 # Site settings
 title: Test Blog
-author:
-  name: Studious Reader
+description: "Blog"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
   # email: your-email@domain.com
 # description: "Great site about Jekyll on GH-Pages."
 
